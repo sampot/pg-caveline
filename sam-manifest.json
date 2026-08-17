@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rev": "d27c96c",
+  "files": [
+    "app.js",
+    "assets/corridor.png",
+    "assets/gate.png",
+    "functions.js",
+    "game.js",
+    "index.html",
+    "styles.css"
+  ]
+}
